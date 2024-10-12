@@ -1,0 +1,20 @@
+[
+    {
+        "type": "cidr",
+        "tag": "suspicious",
+        "tlp": "white",
+        "value": "172.16.250.70"
+    },
+    {
+        "type": "cidr",
+        "tag": "suspicious",
+        "tlp": "white",
+        "value": "206.224.70.116"
+    },
+    {
+        "type": "freedns",
+        "tag": "suspicious",
+        "tlp": "white",
+        "value": "hicam.net"
+    }
+]
